@@ -2,6 +2,7 @@
 ACGN相关软件汇总
 
 ​动漫类型：
+
 1，AnimeSearcher（pc/桌面端）
 GitHub项目，目前貌似开发者已经停止维护更新了？整合第三方网站的视频和弹幕资源, 自动匹配第三方网站的弹幕,会编程的话可以编译官方搜索引擎添加自己想加的网站（有教程），插件格式api❌
 
@@ -49,6 +50,7 @@ https://github.com/kodjodevf/mangayomi 漫画/动画/小说，插件格式js，�
 https://cdn.jsdelivr.net/gh/cuiocean/ZY-Player-Resources@main/Recommendations/Recommendations.json
 
 音乐：
+
 1，musicfree
 有安卓端和桌面版，官网https://musicfree.upup.fun/ ，支持自己开发插件，格式json，有官方教程，目前2个平台都在用，其他手机APP支持合并
 https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json (gitee可以换github，部分下载的音频不能被某些软件如aimp，绿乐识别播放，大部分文件管理器？❗️，
@@ -56,6 +58,7 @@ https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json (gitee可�
 2，musicbee，PC端的音乐播放器+库管理软件，支持插件但装了插件好像也没什么新功能
 
 ⭕漫画：
+
 1，tachiyomi
 官方版本貌似不太好用，分支很多，插件格式apk，和“全是漫画”一个模子但这个软件太封闭，0.13.2无法导入图源插件bug，插件化方面没这软件强大，修改版系列ghproxy直连github:https://lanzout.com/b03uzn30f 密tachiyomi 插件https://raw.githubusercontent.com/tachiyomiorg/extensions/repo/index.min.json 
 第三方仓库：https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json ，没显示就挂v再不行就换个代理链接头
@@ -133,6 +136,7 @@ https://raw.githubusercontent.com/mabDc/eso_source/master/音频/sub.json
 8，猫番阅读：小说漫画，安卓，要登录？
 
 水果端：
+
 1，Hanami，没有中文图源，且ui对横屏支持不好，没有双页模式，
 2，cmsplayer，动漫电影方面，
 3，aidoku，内置源，和mihon的插件相似但不通用❗不支持mihon的源，

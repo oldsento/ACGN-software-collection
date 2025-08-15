@@ -138,17 +138,26 @@ https://raw.githubusercontent.com/mabDc/eso_source/master/音频/sub.json
 水果端：
 
 1，Hanami，没有中文图源，且ui对横屏支持不好，没有双页模式，
+
 2，cmsplayer，动漫电影方面，
+
 3，aidoku，内置源，和mihon的插件相似但不通用❗不支持mihon的源，
 
 ⭕各种坑：
 
 1，emby 安卓，服务器可自建，别人的服务器有很多门槛(高，
+
 2，全是漫画 书源和comic一个套路，有广告，https://github.com/hongchacha/cartoon ，
+
 3，皮皮喵，有安卓和水果版，以前官方的自带开屏广告，vip限制，支持开发插件，目前已经弃了，用上面的代替，插件格式json
+
 4，多多猫
 安卓，据说有200+插件，格式site，内容包括图和影视？主要是图文阅读器，VIP限制，可自己开发插件，现在已经废了，
+
 5，siteder 多多猫等site格式的插件中心，目前也废了
+
 6，yealico/yelico，苹果端 安卓端貌似挂了(1.0.0安装到note3没用，最新版，总之废了，bug多？
+
 7，Tachidesk-Sorayomi支持iOS12，
-7，安卓，影音宝(不存在，
+
+8，安卓，影音宝(不存在，

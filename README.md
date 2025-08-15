@@ -45,7 +45,7 @@ https://github.com/kodjodevf/mangayomi 漫画/动画/小说，插件格式js，�
 
 5，影视仓：多仓TVbox，数据源：https://www.juwanhezi.com/other/jsonlist ，
 
-6，zyplayer 电脑端貌似目前只有64位 可以用tvbox的接口，2.5.4有广告推送，支持投屏，增加搜全网功能，2.5.2有接口检测但导入接口链接总是失败，0.1.2没有广告但有点简陋， 接口：https://jsd.cdn.zzko.cn/gh/ls125781003/dmtg@master/zy.json，https://gitcode.net/-/snippets/1706/raw/master/ZY-Player.json
+6，zyplayer 电脑端貌似目前只有64位 可以用tvbox的接口，2.5.4有广告推送，支持投屏，增加搜全网功能，2.5.2有接口检测但导入接口链接总是失败，0.1.2没有广告但有点简陋， 接口：https://jsd.cdn.zzko.cn/gh/ls125781003/dmtg@master/zy.json ，https://gitcode.net/-/snippets/1706/raw/master/ZY-Player.json
 https://cdn.jsdelivr.net/gh/cuiocean/ZY-Player-Resources@main/Recommendations/Recommendations.json
 
 音乐：
@@ -90,13 +90,17 @@ https://everythingmoe.com/post/mihonguide.html
 更多图源，源仓库：http://www.yckceo.com ，
 
 小说：
+
 1，阅读/苹果端是(源阅读，插件格式json
 支持漫画源https://www.yckceo.com/yuedu/shuyuan/index.html?keys=%E6%BC%AB%E7%94%BB&uid=&order1=time&order2=1&ver=&faxian=&sousuo=&tu=&shengyin=
+
 2，搜书大师
 书源可以直接用上面那个，
+
 3，厚墨
 
 其他：
+
 1，CeJS online work crawler，聚合搜索和下载全网小说漫画
 
 2，myacg
@@ -134,6 +138,7 @@ https://raw.githubusercontent.com/mabDc/eso_source/master/音频/sub.json
 3，aidoku，内置源，和mihon的插件相似但不通用❗不支持mihon的源，
 
 ⭕各种坑：
+
 1，emby 安卓，服务器可自建，别人的服务器有很多门槛(高，
 2，全是漫画 书源和comic一个套路，有广告，https://github.com/hongchacha/cartoon ，
 3，皮皮喵，有安卓和水果版，以前官方的自带开屏广告，vip限制，支持开发插件，目前已经弃了，用上面的代替，插件格式json

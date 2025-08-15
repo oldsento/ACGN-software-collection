@@ -1,0 +1,147 @@
+插件化软件2
+⭕️TVbox翻版：​共汇集了包括原版和修改版在内的13个版本：
+01-05是无源（需自行添加影视源）版本，06-13是内置源（同时支持自添加源）版本，但有一个特殊版本“一影视”（内置源，不支持自添加源）；
+01-12是横屏版，13是竖屏版（只有“影视酷”1款）
+一、TVBOX 各大版本
+01-TVBOX原版：
+界面简约，兼容性高、响应速度快，支持聚合搜索模式、内置分辨率、时间屏显等功能
+02-TVBOX pro（原内置源失效，需自行添加源）：
+在原版基础上做了优化和功能升级，原本有内置影视源，目前已失效，需自行添加源。
+03-TVBOX taka美化版
+全新UI外观、功能更加丰富，支持挂载WebDav和本地盘，播放器显示分辨率、网速、时间屏显等功能
+04-pluto-player二次开发版
+美化UI、可选专业模式或基础模式、内置浏览器、启动密码、设置主题、自动更新等功能。安装后为英文版，要更改语言为中文。
+05-聚合影视
+是一款在开发中的app，界面十分精简（比TVBOX原版更简单），只有基础功能，待作者进一步完善
+06-喵影视（普通版高级版）- 内置源
+免费、无广告的TV盒子,聚合直播和点播一体式，海量蓝光超清线路，支持Android、Pad、 TV
+（1）_普通版：_界面简约,兼容性高、响应速度快，支持聚合搜索模式，内置
+分辨率、时间屏显等功能
+（2）_高级版：_时尚外观、功能丰富，支持挂载Webdav和本地盘,内置分辦率、网速、时间屏显等功能
+07-星辰影视（内置源）
+接近是原版的换壳，更换界面内背景，添加内置源。
+08-懒人影视（内置源）
+除了内置源，比原版多了“更新数据源”和“设置访问的主地址”两大功能。
+09-TV影视盒（内置源）
+设置页比原版进行了优化和功能升级，分类更细。
+10-六神TV（内置源）
+相比原版，功能有部分精简，内置了影视源。
+11-简单影视（内置源）
+跟TVBOX官方原版没太大区别，只是内置了影视源。
+12-一影视（内置源版，不支持自添加源）：
+比原版精简了部分功能，最大的区别是这个版本只有内置源，不支持自添加影视源。内置源有“优质线路”和“线路1”两条可选，“优质线路”有15个影视搜索源，“线路1”有42个影视搜索源
+13-影视酷（竖屏版/内置源）
+众多修改版中，唯一的一款竖屏版（不算用工具强制横屏转竖屏的）。首页比原版精简了功能项，突出影视和直播界面内容，最适合手机使用的一个版本。
+
+星so浏览器v1.0.1大小46.57MB，v1.1.0
+大小46.8 MB，v1.1.3大小45.5M，
+优点：自定义脚本和规则，兼容javascript和过滤规则(你搜，视频，图片，音频搜索，
+缺点：有开屏广告，内置广告，113源很难导入，
+
+⭕️动漫类型：
+https://github.com/KNKPA/KNKPAnime，
+动画，内置动漫源GirigiriLove/Bimi/Yhdm/Anime1/Iyf/Ant/Nyafun，有安卓和PC版，1.1.7大小64.13MB，com.example.knkpanime，目前只有7个内置源但一半挂了❗可以自定义/添加js源(链接，目前56m大小，有安卓和PC版❌
+
+https://github.com/laqoome/LaQoo，动画，安卓8及以上，内置了silisili/Mxdm/GirlGirl/Agedm/Cycanime/AnFuns/Gogoanime/Yhdm/nyafun 九个动漫源，支持下载，1.3.4大小5.91MB，下面的翻版⭕增加弹幕和其他优化，不能聚合搜索要手动切换❗支持下载，修改源域名，
+
+https://github.com/lanlinju/Animius，动画，安卓多源，支持下载，1.3.4大小4.35MB，主页点击上面切换显示容易崩溃❌
+
+https://github.com/Sle2p/AniCh，多平台，动画，离线缓存，_1.4.2大小16.74MB，被⭕⭕黑/挂了❌图库/pixiv正常，
+
+https://github.com/YenalyLiew/Han1meViewer/，看里番，0.15.5大小5.91MB，com.yenaly.han1meviewer，移动网络可能和谐了？设置/网络设置/启用应用内host之后重启正常💡要挂v，否则不能看/弹出跳转浏览器提示，10月没更❗
+https://github.com/Mioxiya/Han1meViewer，翻版，有修复可以看👍，大小6m，和上面不能共存❗分辨率貌似480p不能修改❗
+https://github.com/misaka10032w/Han1meViewer，大小29m，可以看👍下载，切换到备用线路速度快一些，分辨率只有480p❗
+https://github.com/Night-stars-1/Han1meViewer，大小36m，
+https://github.com/sjshb57/Han1meViewerR，大小4m，安卓7及以上，上面的翻版，和上面不能共存❗可以看👍可以切换分辨率但默认1080p不支持在软件设置里改只能在播放界面改)🌟，切换分辨率就得重头开始😡❗收藏/添加到播放列表要登录💢
+https://github.com/fxazkwxm/Han1me-，大小8m，0.13.0，1年没更新，和上面不能共存❗和原版一样跳转浏览器❌
+
+https://github.com/KikoPlayProject/KikoPlay，看部分BT站点资源，有插件，安卓版的要连接PC端才能看❗
+
+Kuukiyomi，基于Aniyomi，漫画/动画/BT，Android8.0及以上，但仓库没下载/坑了❌
+
+https://github.com/albertxiao/Dantotsu❌，https://dantotsu.org/，一个基于Saikou的Anilist客户端。多平台，项目❌了❗支持Mihon漫画源/Aniyomi动画源/小说源。扩展：https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json
+https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json
+https://github.com/rebelonion/Dantotsu-Download-Addon，只是个没有打开方式的安装包❗️
+https://github.com/rebelonion/Dantotsu-Torrent-Addon/，
+
+https://github.com/aayush2622/Dartotsu Dantotsu重写版，名字很像❗️不提供/维护插件扩展❗_0.0.2大小26.04MB，上面的2软件插件？安装的不能识别显示❗小说漫画动画，多平台，设置中文要在设置第三选项里切换(翻译有点残念，r10/x10偶尔会闪退❗只支持mangayomi的源，
+
+https://github.com/MrBoomDeveloper/Awery，基于Dantotsu，安卓，动画，_1.0.4-Beta-prod-modern-release大小17.66MB，支持aniyomi插件(安装了就显示，github软件没动画源插件只有记录收藏的❗搜索反应快，支持小窗播放但不能自由缩放，开发版https://github.com/Shebyyy/Awery-updater，x10视频详情点击评论就崩溃后重新进入界面bug❗️
+
+https://github.com/K3vinb5/Unyo，Dantotsu的桌面版，漫画/动画，https://github.com/K3vinb5/Unyo-Extensions，支持或即将(来)支持aniyomi/mangayomi插件，
+
+https://github.com/RyanYuuki/AnymeX，支持Mangayomi/Mihon/Aniyomi插件，多平台，小说/漫画/动画，2.9.9大小22.54MB，com.ryan.anymex，跳过OPED开关，打开条目背景动态效果很恶心❗加载不了详情/加载慢❗速度还行，要添加了支持其他软件插件链接仓库才显示已安装的插件❗漫画阅读没有去白边和裁剪分页，搜索点击all/某个源进入灰屏界面/可能搜索废了❗插件点击设置没用❗等后续版本解决💡
+
+⭕️音乐类型：
+Azusa-Player 电梓播放器v301大小74.7M，325大小59m，有水果端小一点，
+优点：播放b站，油管，本地(VIP限制，AList，兼容musicFree插件(324开始不能加载，不支持手动导入插件❗兼容性差？搜索结果筛选，搜索显示时长，没时长的不能播放，
+缺点：广告(包括开屏，播放本地要VIP，比较臃肿，325在r10上偶尔卡死或反应巨慢，各种坑不好用，
+
+果韵/apprhyme，https://github.com/canxin121/app_rhyme，多平台，目前只支持网易和酷我插件源，
+
+洛雪)LX Music 移动版/any listen，https://github.com/lyswhut/lx-music-mobile，内置主流音乐源，
+
+音乐间谍/Music Spy，PC端，安卓端的不是同一作者，
+
+listen1，https://github.com/listen1/listen1_desktop，目前就PC端音源最多，安卓的目前只有网易和QQ，https://github.com/82253452/listen1_mobile，此安卓版是克隆改进增加音源的，目前5年没更新，
+
+⭕️下载器：
+gopeed 有安卓和PC端，插件还比较少，有毒盘，夸克，b站，浏览器下载插件，下载网盘资源有点门槛，b也还不支持下载的文件合并，
+
+
+⭕️漫画类型：
+Komikku，https://github.com/komikku-app/komikku，兼容TachiyomiSY & Mihon/Tachiyomi插件，比其大一点，最新版大小31m起，有个PC端的但不同❗_1.13.2大小30.59MB，合并多个到一个，某些tachiyomi插件要手动打开WebView验证才正常❗阅读界面有话数选择列表快捷，
+
+https://github.com/null2264/yokai，tachiyomi翻版，安卓端，_1.9.7.3大小22.38MB，第一次r10搜索就卡机😡，实际上就是旧版tachiyomi？
+
+Mangareader，https://github.com/youniaogu/MangaReader，❌安卓和水果版，内置插件https://github.com/youniaogu/MangaReader/tree/master/src%2Fplugins，0.7.10大小27m，书源少，目前各种残念❌备份/恢复，
+
+https://github.com/MangaBoya/mangaboya.github.io，安卓，内置源，有广告，比较臃肿❌
+
+https://github.com/avluis/Hentoid，安卓端，聚合/内置不少国外著名绅士黄漫同人志站点，大小40m，_1.20.19大小62.14MB，没中文，部分18x同人志漫画站点聚合浏览器，不能聚合搜索，各方面都有点残念，
+
+https://github.com/venera-app/venera，多平台，国内外包括18x的主流漫画站点，内置源要挂v加载安装，源可以直接编辑，目前站点比较少10多个，安卓大小15m，阅读下一话要费点劲滑动才能切换❗https://git.nyne.dev/nyne/venera-configs/raw/branch/main/index.json，目前18x源貌似都挂了❗
+
+https://github.com/Haleydu/Cimoc/，最新1.7.20/4年前的❗️https://github.com/xyrlsz/Cimoc，这个活跃，内置源，很多翻版，几乎大部分都是很卷和有水印/广告的国内源，比较少，v1.7.237大小51.14M/新版要手动添加源：
+https://gitcode.net/Haleydutest/cupdate/-/raw/master/sourceBaseUrl.json
+地址二：http://www.cimoc.top/cimoc/sourc/master/raw/sourceBaseUrl.json
+地址三：https://miuscapp.com/cimoc/sourceBaseUrl.json
+
+⭕️其他：
+https://github.com/spacecowboy/Feeder
+Feeder 新闻资讯订阅阅读器， (RSS/Atom/JSONFeed) ，多平台，65m有点臃肿，https://github.com/weekend-project-space/top-rss-list，比较全的rss资讯和部分数码相关源，
+
+https://github.com/yang991178/fluent-reader-lite，和上面的相似，https://github.com/DIYgod/RSSHub，类似汇总，
+
+rssaid_3.0.4大小1.66MB，x21闪退❗️大小9m的正常❗️RSS订阅，
+
+⭕️图片：
+MoeLoader-P，https://github.com/xplusky/MoeLoaderP，PC端国内外主流二次元图片网站浏览下载，目前最新版本是2年前的可能作者已经弃坑，
+
+https://github.com/Chihiro23333/MoeLoaderFlutter，安卓和PC端，上面的同类，2.0.1大小9.19m，内置源，不能左右切换只能返回❗️一堆图站但没几个正常/要挂v，anime_picture，konchan_chs有色图，但只能搜索❗️搜索结果都是一样的❗️就这2个能看❗️挂v很不稳定，某些站点点进去没显示首页那就没用要重来❗️yande_pool是图集/漫画，搜索有空格最好用空格号❗️
+
+https://github.com/NO-ob/LoliSnatcher_Droid，安卓端，同上，60m大小，
+
+https://github.com/Yochyo/Yummybooru，安卓端，10m大小，主流国外图站，2.4.14大小8.71m，要挂v或挂了，就3个主流图站❗️
+
+https://github.com/Kisspeace/NsfwBox，一些色图站点浏览器，安卓和PC端，23/7/3可能作者弃坑了❗️3.2.0大小13.43m，软件废了/要挂v❗️可以聚合搜索，图加载慢得要死，各种乱七八糟的都有🤑❗️
+
+kanimeG/k动漫壁纸，https://github.com/EternalSoySauce/Konachan，安卓，目前github没下载了，v1.9.3大小17.88m，主流国内外二次元在线图片站点浏览器，要挂v❗️搜索有空格自动替换，支持中文搜索，可以左右切换，图都是PC尺寸的❗️加载图片很慢/VPN问题？❗️
+
+
+⭕️小说类型：
+https://github.com/LNReader/lnreader，60m大小，安卓端，
+
+readcat，https://github.com/read-cat/read-cat，目前没安卓版，大小89m，
+
+LightNovelReader：https://github.com/dmzz-yyhyy/LightNovelReader，100大小5m，EPUB导出、离线阅读和多数据源支持。目前只支持在漫画，
+
+⭕各种坑：
+-各种坑：
+1，Boorusama，图片类型，github没下载，
+2，Pica Comic，https://github.com/wgh136/PicaComic，主流黄漫站点浏览器，github没下载了，不太好用，部分站点要挂v，没用了❌
+
+3，echo音乐，dev.brahmkshatriya.echo，1.0.0-03d47c1大小12.51M，v2新版找不到公开下载地址❗️开源项目但仓库没下载，有点难找，有同名的本地音乐，插件(貌似都挂了❗️现在没用❌)https://raw.githubusercontent.com/itsmechinmoy/echo-extensions/main/echo_extensions.json(所有包括后面链接的)，https://gist.githubusercontent.com/itsmechinmoy/37816660b04f16955ef333fad40bf032/raw/d760834ac26d2b565f26d3bb1d2637543f47875a/echo_extensions.json，部分有插件安卓版，
+4，https://github.com/KRTirtho/spotube，多平台，仅支持国外2大主流音乐平台，安卓版很臃肿❗️❌
+5，AnimeTV，安卓TV上，仓库没了❌
+

@@ -17,8 +17,7 @@ https://github.com/RyensX/MediaBox 安卓端，目前插件有点少，支持自
 https://gitee.com/zhengfan2014/xbmc-kodi-private-china-addons/tree/master/latest
 https://github.com/zhengfan2014/xbmc-kodi-private-china-addons
 
-5，miru https://github.com/ThaUnknown/miru 有安卓，pc，网页版，动漫影视漫画小说一应俱全，ui就是克隆tachiyomi的，1.7.1版本支持安卓5(a8用很卡，1.8.1最新，不支持数据备份，内置可下载插件，https://miru-repo.0n0.dev
-/data/user/0/miru.miaomint/app_flutter/miru/extensions
+5，miru https://github.com/ThaUnknown/miru 有安卓，pc，网页版，动漫影视漫画小说一应俱全，ui就是克隆tachiyomi的，1.7.1版本支持安卓5(a8用很卡，1.8.1最新，不支持数据备份，内置可下载插件，https://miru-repo.0n0.dev/data/user/0/miru.miaomint/app_flutter/miru/extensions
 
 6，aniyomi：https://github.com/aniyomiorg/aniyomi 有动漫插件 插件比较多，但都是内置，有2个版本(官方和开发版/灰色图标/比较小，最低支持安卓8，Aniyomi0.16.4.3把目标移动到local文件夹中创建的一个文件夹里，若不创建软件就不识别❗️可以到软件打开浏览后退出软件会自动生成封面👍漫画阅读界面没有章节列表👎
 插件：1. https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json

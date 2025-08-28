@@ -1,7 +1,4 @@
-# ACGN-software-collection
-ACGN相关软件汇总
-
-​动漫类型：
+## ​动漫类型：
 
 1，AnimeSearcher（pc/桌面端）
 GitHub项目，目前貌似开发者已经停止维护更新了？整合第三方网站的视频和弹幕资源, 自动匹配第三方网站的弹幕,会编程的话可以编译官方搜索引擎添加自己想加的网站（有教程），插件格式api❌
@@ -34,7 +31,7 @@ https://github.com/kodjodevf/mangayomi 漫画/动画/小说，插件格式js，�
 10.https://github.com/aooiuu/any-reader
  目前只有桌面版和网页版，兼容eso源，手机端是亦搜，
 
-影视方面的(针对电视盒：
+## 影视方面的(针对电视盒：
 1，猫影视TV，作者跑路了，软件需要js接口配置才能用，目前找不到最新的
 
 2，喵影视TV，上面的翻版
@@ -48,7 +45,7 @@ https://github.com/kodjodevf/mangayomi 漫画/动画/小说，插件格式js，�
 6，zyplayer 电脑端貌似目前只有64位 可以用tvbox的接口，2.5.4有广告推送，支持投屏，增加搜全网功能，2.5.2有接口检测但导入接口链接总是失败，0.1.2没有广告但有点简陋， 接口：https://jsd.cdn.zzko.cn/gh/ls125781003/dmtg@master/zy.json ，https://gitcode.net/-/snippets/1706/raw/master/ZY-Player.json
 https://cdn.jsdelivr.net/gh/cuiocean/ZY-Player-Resources@main/Recommendations/Recommendations.json
 
-音乐：
+## 音乐：
 
 1，musicfree
 有安卓端和桌面版，官网https://musicfree.upup.fun/ ，支持自己开发插件，格式json，有官方教程，目前2个平台都在用，其他手机APP支持合并
@@ -56,7 +53,7 @@ https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json (gitee可�
 
 2，musicbee，PC端的音乐播放器+库管理软件，支持插件但装了插件好像也没什么新功能
 
-⭕漫画：
+## 漫画：
 
 1，tachiyomi
 官方版本貌似不太好用，分支很多，插件格式apk，和“全是漫画”一个模子但这个软件太封闭，0.13.2无法导入图源插件bug，插件化方面没这软件强大，修改版系列ghproxy直连github:https://lanzout.com/b03uzn30f 密tachiyomi 插件https://raw.githubusercontent.com/tachiyomiorg/extensions/repo/index.min.json 
@@ -91,7 +88,7 @@ https://everythingmoe.com/post/mihonguide.html
 本地导入：https://www.123pan.com/s/NJC9-ltZgh
 更多图源，源仓库：http://www.yckceo.com ，
 
-小说：
+## 小说：
 
 1，阅读/苹果端是(源阅读，插件格式json
 支持漫画源https://www.yckceo.com/yuedu/shuyuan/index.html?keys=%E6%BC%AB%E7%94%BB&uid=&order1=time&order2=1&ver=&faxian=&sousuo=&tu=&shengyin=
@@ -101,7 +98,7 @@ https://everythingmoe.com/post/mihonguide.html
 
 3，厚墨
 
-其他：
+## 其他：
 
 1，CeJS online work crawler，聚合搜索和下载全网小说漫画
 
@@ -134,7 +131,7 @@ https://raw.githubusercontent.com/mabDc/eso_source/master/音频/sub.json
  
 8，猫番阅读：小说漫画，安卓，要登录？
 
-水果端：
+## iOS端：
 
 1，Hanami，没有中文图源，且ui对横屏支持不好，没有双页模式，
 

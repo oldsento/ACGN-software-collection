@@ -1,3 +1,4 @@
+![img](https://hitscounter.dev/api/hit?url=https://github.com/oldsento/ACGN-software-collection&label=&icon=eye&color=%2380cbc4&message=&style=flat&tz=UTC)
 ## ​动漫类型：
 
 1，AnimeSearcher（pc/桌面端）

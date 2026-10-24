@@ -56,6 +56,9 @@ https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json (gitee可�
 
 ## 漫画：
 
+0，Easemic https://github.com/dirtyfancy/easemic
+安卓端开源漫画/本子阅读器（Apache-2.0），自带 E-Hentai、ExHentai、nhentai、禁漫天堂、再漫画与 Kavita/Komga (OPDS) 源免装插件，支持直接导入本地 .ehviewer 目录与 CBZ/ZIP；最大特色是支持一键在手机端加密后存入自己的 Cloudflare R2 / Bunny / Google Drive / OneDrive / 123云盘 / 坚果云并按页流式直连秒看（不占手机空间、防爆菊删库、自动剥离末尾菠菜广告页）。
+
 1，tachiyomi
 官方版本貌似不太好用，分支很多，插件格式apk，和“全是漫画”一个模子但这个软件太封闭，0.13.2无法导入图源插件bug，插件化方面没这软件强大，修改版系列ghproxy直连github:https://lanzout.com/b03uzn30f 密tachiyomi 插件https://raw.githubusercontent.com/tachiyomiorg/extensions/repo/index.min.json 
 第三方仓库：https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json ，没显示就挂v再不行就换个代理链接头
